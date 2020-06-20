@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD测试
 # efront
 
 > A Vue.js project
