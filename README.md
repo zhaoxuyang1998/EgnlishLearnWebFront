@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # efront
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# EgnlishLearnWebFront
+>>>>>>> cd5cd1c6214441306c62ac863a88cd4db8eeb982
